@@ -8,6 +8,7 @@
 # NPM
 node_modules
 npm-debug.log
+/lib/
 
 # General Files
 .sass-cache
